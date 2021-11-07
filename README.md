@@ -1,7 +1,6 @@
-Todo list 
+### Personal JS todolist 
 
-- based on the udemy clas tutorial by net ninja
+List your tasks and track them on this little app 
 
-Dependencies
-- bootstrap
-- font awesome
+Based on a tutorial by net ninja using bootstrap and font awesome.
+

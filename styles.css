@@ -1,5 +1,5 @@
 body {
-    background: #352f5b;
+    background: #413970;
 }
 
 .container{
@@ -14,7 +14,7 @@ input[type=text]:focus{
     max-width: 400px;
 }
 .todos li{
-    background: #423a6f;
+    background: #5f54a0;
 }
 .delete{
     cursor: pointer;
